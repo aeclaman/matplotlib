@@ -12,3 +12,5 @@ And the following three pie charts:
 - % of Total Fares by City Type  
 - % of Total Rides by City Type  
 - % of Total Drivers by City Type  
+
+*Images of the charts produced from this notebook can be found in the Images folder of the repository.
